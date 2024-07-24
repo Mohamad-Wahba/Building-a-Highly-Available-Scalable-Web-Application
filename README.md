@@ -9,4 +9,4 @@ This solution presents a high-level architecture for a scalable and highly avail
 
 ---
 ## Cost Estimate (version 1)
-![Cost Estimate](Architecture%20diagram/roject Estimate1- MW - AWS Pricing Calculator.pdf)
+![Cost Estimate](Architecture%20diagram/Project Estimate1- MW - AWS Pricing Calculator.pdf)
